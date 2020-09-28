@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import sys
+sys.path.insert(1, './test/')
 
 import functools
 import inspect
