@@ -1,6 +1,3 @@
-__author__ = 'Steven Summers'
-__version__ = ''
-
 import argparse
 import ctypes
 import difflib
