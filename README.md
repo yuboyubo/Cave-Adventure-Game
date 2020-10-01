@@ -2,6 +2,6 @@
 
 Run main.py to start the game
 
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
+| Input | Action |
+| ------- | --- |
+| `-DIRECTION-' | Direction to move in |
